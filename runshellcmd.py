@@ -1,4 +1,4 @@
-'''run shell cmd'
+'''run shell cmd'''
 def run_cmd(cmd):
     print 'cmd:'
     print cmd
